@@ -8,7 +8,7 @@
 * MIMIM-design
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const BotName = '👾MIMIM-BOT👾'; // JANGAN UBAH-UBAH INFO!!!
+const MIMIM = '👾MIMIM-BOT👾'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://www.instagram.com/kreasi.editing_official/'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6281953568637'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
