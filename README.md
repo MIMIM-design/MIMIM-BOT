@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm MIMIM CYBER
 <p align="center">
-<img src="https://github.com/MIMIM-design/MIMIM-BOT/blob/main/temp/20201214_110934.png" width="230" height="230"/>
+<img src="https://github.com/MIMIM-design/MIMIM-BOT/blob/main/temp/20201212_082042.png" width="230" height="230"/>
 </p>
 <br>
 
@@ -104,7 +104,7 @@ Script ini di modifikasi sama saya sendiri MIMIM CYBER.
 Ket: Aktiv tergantung owner
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 🔰_MyBot_🔰`](+62 878-4811-5476)
+* [`Donasi 🔰_MIMIM-BOT_🔰`](+62 878-4811-5476)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
