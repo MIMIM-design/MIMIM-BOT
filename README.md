@@ -1,6 +1,6 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm FADHIL GRAPHY
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm MIMIM CYBER
 <p align="center">
-<img src="https://github.com/MIMIM-design/botku/blob/main/temp/20201214_110934.png" width="230" height="230"/>
+<img src="https://github.com/MIMIM-design/MIMIM-BOT/blob/main/temp/20201214_110934.png" width="230" height="230"/>
 </p>
 <br>
 
