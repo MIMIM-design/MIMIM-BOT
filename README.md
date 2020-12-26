@@ -1,16 +1,16 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm FADHIL GRAPHY
 <p align="center">
-<img src="https://github.com/FdhlGraphy/botku/blob/main/temp/20201214_110934.png" width="230" height="230"/>
+<img src="https://github.com/MIMIM-design/botku/blob/main/temp/20201214_110934.png" width="230" height="230"/>
 </p>
 <br>
 
 
 
 <p align="center">
-<a href="#"><img title="🔰_MyBot_🔰" src="https://img.shields.io/badge/MYBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="🔰_MIMIM-BOT_🔰" src="https://img.shields.io/badge/MIMIM-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/FdhlGraphy"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FADHIL GRAPHY-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MIMIM-design"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MIMIM CYBER-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
@@ -49,15 +49,15 @@ jika kalian ngerokok ya. saran gw gausah ngerokok.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri FADHIL ID.
+Script ini di modifikasi sama saya sendiri MIMIM CYBER.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/FdhlGraphy/mybotv2
-> cd mybotv2
+> git clone https://github.com/MIMIM-design/MIMIM-BOT
+> cd MIMIM-BOT
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr done tinggal jalanin aja dah
 ```
@@ -104,14 +104,14 @@ Script ini di modifikasi sama saya sendiri FADHIL ID.
 Ket: Aktiv tergantung owner
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 🔰_MyBot_🔰`](+62 831-0265-0464)
+* [`Donasi 🔰_MyBot_🔰`](+62 878-4811-5476)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/)
-* [`Instagram Admin`](https://instagram.com/nur.fdhl_)
-* [`WhatsApp Admin `](https://wa.me/6283102650464)
+* [`Halaman Admin`](https://m.facebook.com/mimim.projects/?ref=bookmarks)
+* [`Instagram Admin`](https://www.instagram.com/kreasi.editing_official/)
+* [`WhatsApp Admin `](https://wa.me/6287848115476)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
