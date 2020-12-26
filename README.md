@@ -1,16 +1,16 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aris187 ID
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm FADHIL GRAPHY
 <p align="center">
-<img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/aris/A187.jpg" width="230" height="230"/>
+<img src="https://github.com/FdhlGraphy/botku/blob/main/temp/20201214_110934.png" width="230" height="230"/>
 </p>
 <br>
 
 
 
 <p align="center">
-<a href="#"><img title="👾AR15BOT👾" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="🔰_MyBot_🔰" src="https://img.shields.io/badge/MYBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARIS187 ID-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/FdhlGraphy"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FADHIL GRAPHY-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
@@ -28,8 +28,6 @@
  
 </details>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕𝗮𝗿
-
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
 
@@ -40,25 +38,28 @@ SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA 
 ### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Siapin alat dan bahannya.
 ```bash
-> niat
+> niat (kalo gak niat gabakal jadi:v)
 > 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-> jaringan internet kenceng,kuota+
+> jaringan internet kenceng, kuota+
 > penyimpanan yang memadai
 > aplikasi whatsapp
 > aplikasi termux
 > kopi+rokok ;v
+jika kalian ngerokok ya. saran gw gausah ngerokok.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri Aris187 ID.
+Script ini di modifikasi sama saya sendiri FADHIL ID.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/A187ID/AR15BOT
-> cd AR15BOT
-> bash install.sh
-> node index js
-> Tinggal scan kode qr yeee...done
+> termux-setup-storage
+> pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
+> apt update && apt upgrade
+> git clone https://github.com/FdhlGraphy/mybotv2
+> cd mybotv2
+> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
+> Tinggal scan kode qr done tinggal jalanin aja dah
 ```
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
@@ -67,55 +68,57 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
-|       ✅       | add                          |
-|       ✅       | kick                     |
-|       ✅       | demote                     |
-|       ✅       | promote                       |
-|       ✅       | bc           |
-|       ✅       | welcome                           |
+|       ✅       | Covid (new)                      |
+|       ✅       | Alay (new)                       |
+|       ✅       | Lirik (new)                      |
+|       ✅       | Foto Anime                       |
+|       ✅       | Foto cewek/cowok (new)           |
+|       ✅       | Pantun                           |
 |       ✅       | Youtube Downloader               |
-|       ✅       | simi                           |
-|       ✅       | left                    |
-|       ✅       | setpp                    |
-|       ✅       | group buka/tutup                   |
-|       ✅       | nsfwloli                 |
-|       ✅       | loli              |
-|       ✅       | tts                            |
-|       ✅       | tiktokstalk          |
-|       ✅       | tiktok             |
-|       ✅       | tagall               |
-|       ✅       | clearall             |
-|       ✅       | block        |
-|       ✅       | unblock                        |
-|       ✅       | sound                              |
-|       ✅       | tsticker                    |
-|       ✅       | nulis                             |
-|       ✅       | meme                           |
-|       ✅       | memeindo                     |
-|       ✅       | ocr                      |
-|       ✅       | clone                            |
-|       ✅       | bc                          |
-|       ✅       | leave                             |
-|       ✅       | url2img                           |
-|       ✅       | wait                          |
-|            info/donate/creator                  |
+|       ✅       | Quotes                           |
+|       ✅       | Nama (new)                       |
+|       ✅       | Foto Anime                       |
+|       ✅       | Pasangan (new)                   |
+|       ✅       | Sholat (new )                    |
+|       ✅       | Suara Google (fix)               |
+|       ✅       | Quran                            |
+|       ✅       | Youtube MP3 Downloader           |
+|       ✅       | Intagram Downloader              |
+|       ✅       | Twitter Downloader               |
+|       ✅       | Facebook Downloader              |
+|       ✅       | TikTok Downloader  (new)         |
+|       ✅       | Wikipedia                        |
+|       ✅       | Say                              |
+|       ✅       | Toxic (new)                      |
+|       ✅       | loli                             |
+|       ✅       | hentai                           |
+|       ✅       | Owner (new)                      |
+|       ✅       | kata bijak                       |
+|       ✅       | Fakta                            |
+|       ✅       | Pokemon                          |
+|       ✅       | Info                             |
+|       ✅       | Donate                           |
+|       ✅       | 18+.                             |
+|                   MORE  Fitur                     |
 
-Ket: Aktiv 24 jam
+Ket: Aktiv tergantung owner
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👾AR15BOT👾`](https://saweria.co/aris187id)
+* [`Donasi 🔰_MyBot_🔰`](+62 831-0265-0464)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
-* [`Group WhatsApp `](https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs)
+* [`Youtube Admin`](https://www.youtube.com/channel/)
+* [`Instagram Admin`](https://instagram.com/nur.fdhl_)
+* [`WhatsApp Admin `](https://wa.me/6283102650464)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
+* [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot)
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
+* [`Alfbot`](https://github.com/alfiansx/alfbot)
+* [`AR15BOT`](https://github.com/A187ID/AR15BOT)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
