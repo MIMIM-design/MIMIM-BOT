@@ -64,8 +64,8 @@ Script ini di modifikasi sama saya sendiri MIMIM CYBER.
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| AR15BOT      |                   Feature        |
-| :-----------: | :------------------------------: |
+|    MIMIM-BOT   |                   Feature        |
+| :-----------:  | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
 |       ✅       | Covid (new)                      |
@@ -104,7 +104,7 @@ Script ini di modifikasi sama saya sendiri MIMIM CYBER.
 Ket: Aktiv tergantung owner
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 🔰_MIMIM-BOT_🔰`](+62 878-4811-5476)
+* [`Donasi 🔰_MIMIM-BOT_🔰`](+62878-4811-5476)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
