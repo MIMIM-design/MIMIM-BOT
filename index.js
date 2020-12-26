@@ -1,19 +1,19 @@
 /*
 * JANGAN UBAH-UBAH INFO!!!
 * "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY FADHIL ID
+* SCRIPT BY MIMIM CYBER
 * JANGAN MODAL NAMA DOANG BOSQ
 * HARGAILAH YY MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
-* SCRIPIT INI DIRECODE OLEH FADHIL ID.
+* SCRIPIT INI DIRECODE OLEH MIMIM CYBER.
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '🔰_MyBot_🔰'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/nur.fdhl_'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'wa.me/6283102650464'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = '🔰_MIMIM-BOT_🔰'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://www.instagram.com/kreasi.editing_official/'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'wa.me/6287848115476'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung Owner'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://bit.ly/3aCaSjI'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://bit.ly/3aNfHH5'; // JANGAN UBAH-UBAH INFO!!!
+const groupwhatsapp = 'https://chat.whatsapp.com/H9BWcqui7tCFcBsAGBPkmL'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'https://m.facebook.com/mimim.projects/?ref=bookmarks'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -61,7 +61,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] Fadhil Graphy QR code ready scan now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] MIMIM Graphy QR code ready scan now!`);
 });
 
 conn.on('credentials-updated', () =>
@@ -76,11 +76,11 @@ fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json')
 //conn.connectOptions.agent = ProxyAgent ('http://1.0.180.120:8080')
 conn.connect();
 
-conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @nur.fdhl_`))
+conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @kreasi.editing_official`))
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @nur.fdhl_`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @kreasi.editing_official`)
 })
 
 conn.on('message-new', async(m) =>
@@ -148,7 +148,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lah malah ngatain, berani lu:V' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, ' *Owner FADHIL wa.me/6283102650464* ' ,MessageType.text);
+conn.sendMessage(id, ' *Owner MIMIM wa.me/6287848115476* ' ,MessageType.text);
 }
 else if (text == '#help'){
 conn.sendMessage(id, ' *Menampilkan Pilihan Menu!!!* ' ,MessageType.text);
@@ -163,7 +163,7 @@ else if (text == '#donate'){
 conn.sendMessage(id, ' *Menampilkan Donasi!!!* ' ,MessageType.text);
 }
 else if (text == '#creator'){
-conn.sendMessage(id, ' *Creator FADHIL wa.me/6283102650464* ' ,MessageType.text);
+conn.sendMessage(id, ' *Creator MIMIM wa.me/6287848115476* ' ,MessageType.text);
 }
 else if (text == 'Pagi'){
 conn.sendMessage(id, ' _Pagi juga Kakak... ada yang bisa kami bantu? Ketik *#help/#menu* untuk melihat fitur bot kami_ ' ,MessageType.text);
@@ -1479,7 +1479,7 @@ conn.sendMessage(id, '
  
  
  
-//Tolonglah bro jangan di ubah ubah FADHIL ID
+//Tolonglah bro jangan di ubah ubah MIMIM CYBER
 
 
 })
